@@ -1,0 +1,15 @@
+
+### Licencia
+
+Para la licencia, puedes utilizar la Licencia MIT, que es una de las más comunes y permisivas. Puedes incluir un archivo `LICENSE` con el siguiente contenido:
+
+```text
+MIT License
+
+Copyright (c) 2023 Ivancastl
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, pero no limitado a, los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso deben incluirse en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS O IMPLÍCITAS, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN, NO INFRACCIÓN O IDONEIDAD PARA UN PROPÓSITO PARTICULAR. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO O CUALQUIER OTRA ACCIÓN EN EL SOFTWARE.
