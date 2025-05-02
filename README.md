@@ -22,7 +22,7 @@ Este script requiere Python
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/Ivancastl/transparencia_telegram.git
+    git clone https://github.com/Ivancastl/Transparencia_t.git
     ```
 3. Instala los requerimientos:
     ```bash
