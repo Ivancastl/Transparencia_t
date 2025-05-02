@@ -26,7 +26,7 @@ Este script requiere Python
     ```
 3. Instala los requerimientos:
     ```bash
-    cd transparencia_telegram
+    cd Transparencia_t
     ```
 
 2. Instala los requerimientos:
